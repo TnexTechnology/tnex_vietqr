@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/example.iml" filepath="$PROJECT_DIR$/.idea/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/flutter_plugin_android_lifecycle/flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/build/flutter_plugin_android_lifecycle/flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/flutter_qr_reader/flutter_qr_reader.iml" filepath="$PROJECT_DIR$/build/flutter_qr_reader/flutter_qr_reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/app/generated/source/generated.iml" filepath="$PROJECT_DIR$/build/app/generated/source/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/image_picker/image_picker.iml" filepath="$PROJECT_DIR$/build/image_picker/image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/image_picker_android/image_picker_android.iml" filepath="$PROJECT_DIR$/build/image_picker_android/image_picker_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/app/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources.iml" filepath="$PROJECT_DIR$/build/app/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/permission_handler/permission_handler.iml" filepath="$PROJECT_DIR$/build/permission_handler/permission_handler.iml" />
+    </modules>
+  </component>
+</project>
